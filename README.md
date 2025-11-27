@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 👨‍💻 I'm an AI/ML Engineer passionate about building intelligent systems and solving real-world problems through data.
+- 👨‍💻 I'm an Software and AI/ML Engineer passionate about building intelligent systems and solving real-world problems through data.
 - 🔬 Currently diving deeper into:
   - 🧠 Retrieval-Augmented Generation (RAG), LLMs, and Vector Databases
   - 🔄 Transfer Learning with LoRA & QLoRA
